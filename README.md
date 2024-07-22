@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
+![](https://github.com/AntoneAl11/AntoneAl11/blob/main/Fondo.jpeg)
 <!---
 AntoneAl11/AntoneAl11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
