@@ -2,7 +2,7 @@
 - 👀 I’m interested in to become a great software development and make a transition in my professional life.
 - 🌱 I’m currently learning How to make Android and Apple apps with Xamarin and Android Studio
 - 💞️ I’m looking to collaborate on whatever project who can help me to put in proof my new knowledge and exploit my skills
-- 📫 How to reach me I´m avalibable on insta like antone_gamesplay and youtube Antone Websurffer
+- 📫 How to reach me I´m avalibable on insta like antone_gamesplay
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
